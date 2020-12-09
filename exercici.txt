@@ -1,1 +1,3 @@
 canvi text punt 2.e
+afegit text al fitxer segons punt 2.b
+
